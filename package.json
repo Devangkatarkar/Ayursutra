@@ -59,5 +59,9 @@
       "scripts": {
           "dev": "vite",
           "build": "vite build"
+      },
+      "engines": {
+         "node": "22.x"
       }
+
   }
